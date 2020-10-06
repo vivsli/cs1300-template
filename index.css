@@ -1,7 +1,4 @@
 /* Put your style information here! */
-.boxed {
-    border: 3px navy
-}
 .center_img {
     display: block;
     margin-left: auto;
@@ -20,10 +17,6 @@
 
 .observations_and_answers {
     text-decoration: underline;
-}
-
-.interviewees {
-    font-weight: 700;
 }
 
 .center_storyboard {
